@@ -2,4 +2,4 @@
 
 ### Переход на мой сайт
 
-> https://Ya.github.io/d/
+>  https://yakobel.github.io/Yaroslav-Kobel/.
